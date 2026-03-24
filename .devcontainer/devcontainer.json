@@ -1,5 +1,5 @@
 {
-  "name": "react-native-expo-project-template",
+  "name": "react-native-expo-project-template (optional, Docker not required)",
   "image": "mcr.microsoft.com/devcontainers/base:bookworm",
   "workspaceFolder": "/workspaces/project",
   "features": {

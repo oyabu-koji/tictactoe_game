@@ -10,7 +10,7 @@ developer_instructions = """
 """
 
 [features]
-collab = true
+multi_agent = true
 
 [agents.doc_reviewer]
 description = "ドキュメントレビュー用のサブエージェント。`.agents/agents/doc-reviewer.md` を参照する。"

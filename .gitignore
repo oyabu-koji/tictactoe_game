@@ -39,6 +39,17 @@ coverage/
 # Expo
 .expo/
 web-build/
+.metro-health-check*
+/ios
+/android
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
 
 # Steering files (task management - temporary)
 .steering/*
